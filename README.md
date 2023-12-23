@@ -50,3 +50,5 @@ There are a few reasons as to why this may be the case:
 * Every benchmark generates a new dataset and and results may be different because of that (possible solution is using one dataset for all benchmarks).
 * Datasets generated are bad. The data I generate has only 2 columns (key and value)
 * The inconsistency is not a mistake and I don't know how to explain it correctly
+## Conclusion
+If we assume the results above are correct, implementing a cache is worthwhile for systems where reads are a lot more common than writes and we can guarantee at least a 60% hit rate in 99% of cases.
