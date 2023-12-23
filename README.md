@@ -6,9 +6,9 @@ Git
 Python3
 ## Setup
 Setup is simple just clone the repository with command:
-'''
+```
 git clone https://github.com/TinyDragon330/IPVO
-'''
+```
 Or download as zip and unpack.
 ## Running the benchmark
 Everything is automated using jupyter notebooks. Setting up Redis and MySQL and running benchmarks is done by executing blocks of commands in the jupyter notebook.
