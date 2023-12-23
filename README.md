@@ -1,9 +1,9 @@
 # IPVO
 This is an assigment I got in class. I need to benchmark reads and writes based on hit rate. I use Redis, MySQL and Docker
 ## Prerequisites
-Docker
-Git
-Python3
+Docker  
+Git  
+Python3  
 ## Setup
 Setup is simple just clone the repository with command:
 ```
